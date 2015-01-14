@@ -1,0 +1,102 @@
+
+html,body{
+   
+	height:100%;
+	width:100%;
+}
+#intro{
+
+
+	  background: url(banner.png) fixed;
+      background-repeat: no-repeat ;
+      height:100%;
+      width:100%; 
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+  }
+
+  #about{
+    font-size: 20px;
+    color:white;
+    background: url(banner.png) fixed;
+      background-repeat: no-repeat ;
+      height:100%;
+      width:100%; 
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+
+  }
+
+  #project{
+    font-size: 20px;
+    color:white;
+    background: url(banner.png) fixed;
+      background-repeat: no-repeat ;
+      height:100%;
+      width:100%; 
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+  }
+
+   #contact{
+    font-size: 20px;
+    color:white;
+    background: url(banner.png) fixed;
+      background-repeat: no-repeat ;
+      height:100%;
+      width:100%; 
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+  }
+
+  #per{
+    font-size: 20px;
+    color:white;
+    background: url(banner.png) fixed;
+      background-repeat: no-repeat ;
+      height:100%;
+      width:100%; 
+       -webkit-background-size:cover;
+       -moz-background-size:cover;
+       -o-background-size:cover;
+       background-size: cover;
+  }
+
+
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+#slider 
+{
+    font-size: 60px;
+    color:white;
+  padding : 75px;
+}
+
+.pad-center
+{
+    padding: 50px;
+}
+
+#contact {
+  color: white;
+}
+
+.aborder{
+    border: solid;
+
+}
+
+.texty{
+  font-style: 
+}
